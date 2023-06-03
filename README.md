@@ -12,26 +12,36 @@ This is based on the Tenzies game from scrimba. However, a few extra features ha
 
 ## Demo
 
-View project demo at [https://mflanagan924.github.io/memory-card-game/](https://mflanagan924.github.io/memory-card-game/).
+View project demo at [https://mflanagan924.github.io/Tenzies-Plus/](https://mflanagan924.github.io/Tenzies-Plus/).
 
 ## Preview
 
 Homepage
 
-<img src="https://raw.githubusercontent.com/mflanagan924/memory-card-game/main/Preview.PNG"></img>
+<img src="https://raw.githubusercontent.com/mflanagan924/Tenzies-Plus/main/preview.PNG"></img>
+
+Fivezies
+
+<img src="https://raw.githubusercontent.com/mflanagan924/Tenzies-Plus/main/Fivezies.PNG"></img>
+
+Fifteenzies
+
+<img src="https://raw.githubusercontent.com/mflanagan924/Tenzies-Plus/main/Fifteenzies.PNG"></img>
 
 ## Instructions
 
 Try matching the country flag to the country name. This game is not as easy as it seems because it is testing you on flags that look very similar.
 
-* Level 1: Norway, Iceland, Kenya, South Sudan, Italy, Mexico, Peru, and Canada
-* Level 2: Columbia, Venezuela, Ecuador, USA, Malaysia, Liberia, Hungary, and Tajikistan
-* Level 3: Andorra, Moldova, India, Niger, Bolivia, Ghana, Haiti, and Liechtenstein
-* Level 4: Russia, Slovenia, Slovakia, Monaco, Indonesia, Poland, Bahrain, and Qatar
-* Level 5: Argentina, El Salvador, Nicaragua, Honduras, Netherlands, Luxembourg, Croatia, and Paraguay
-* Level 6: Egypt, Iraq, Yemen, Sudan, and Syria
-* Level 7: Australia, New Zealand, Chad, Romania, Guinea, Mali, Ireland, and Ivory Coast
-
+* The objective of the game is to match all ten dice to a chosen target number as quickly as possible.
+* Click "Roll" to start game.
+* Select target number: At the beginning of each round, the player selects a target number between 1 and 6. This number will be the number they aim to match on all ten dice.
+* Match the target number: After the dice are rolled, any dice that match the target number are automatically highlighted or removed from the screen. The remaining dice are left for the next roll.
+* Re-rolling: Click the "Roll" button again to roll the remaining dice that didn't match the target number in the previous roll.
+* Continuous rolling: Keep rolling the dice and removing the matching ones until all ten dice are successfully matched to the target number.
+* Winning: Once all ten dice are matched to the target number, a congratulatory message or animation is displayed, indicating that the player has won the round.
+* Press "Restart" to restart the current game.
+* Press "Reset" to reset the high score.
+* You can press the up or down arrows at the top to change the number of dice between 5 and 15.
 
 ## About Scrimba
 
